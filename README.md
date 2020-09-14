@@ -355,8 +355,9 @@ OR:
 
 ### Python
 
-- [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
+- [x] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
     - by Goodrich, Tamassia, Goldwasser
+    - [x] Related sources of this book: http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=8029&itemId=1118290275&resourceId=31281
     - I loved this book. It covered everything and more.
     - Pythonic code
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
